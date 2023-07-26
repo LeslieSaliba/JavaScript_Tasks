@@ -10,7 +10,7 @@ else {
     console.log('Bye')
 }
 
-num2 = 1
+num2 = 1;
 
 if (num1 >= num2) {
     console.log('Hello');
